@@ -23,6 +23,8 @@ alacritty: pacman -S alacritty (install it from distro's repository)
 
 hyprshot: yay -S hyprshot
 
+screen share in hyprland: https://gist.github.com/brunoanc/2dea6ddf6974ba4e5d26c3139ffb7580
+
 Catppuccin mauve cursor: https://www.gnome-look.org/p/2135236
 
 ![image](https://github.com/user-attachments/assets/71cc7187-a670-4069-8045-34c8419c2b13)
