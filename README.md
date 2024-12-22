@@ -21,7 +21,7 @@ hyprpaper: pacman -S hyprpaper (install it from distro's repository)
 
 alacritty: pacman -S alacritty (install it from distro's repository)
 
-hyprshot: yay -S hyprshot
+hyprshot: yay -S hyprshot (install it from AUR/github repo)
 
 screen share in hyprland: https://gist.github.com/brunoanc/2dea6ddf6974ba4e5d26c3139ffb7580
 
