@@ -15,7 +15,7 @@ Rofi: pacman -S rofi (install it from distro's repository)
 
 hyprland: pacman -S hyprland (install it from distro's repository)
 
-hyprpanel: yay -S hyprpanel (install it from AUR/github repo)
+hyprpanel: yay -S ags-hyprpanel-git (install it from AUR/github repo)
 
 hyprpaper: pacman -S hyprpaper (install it from distro's repository)
 
