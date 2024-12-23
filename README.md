@@ -25,11 +25,13 @@ hyprshot: yay -S hyprshot (install it from AUR/github repo)
 
 hyprlock: pacman -S hyprlock (install it from distro's repository)
 
-screen share in hyprland: https://gist.github.com/brunoanc/2dea6ddf6974ba4e5d26c3139ffb7580
-
 Catppuccin mauve cursor: https://www.gnome-look.org/p/2135236
 
+swww: pacman -S swww (install it from distro's repository)
+
 ##########################################################################
+
+screen share in hyprland: https://gist.github.com/brunoanc/2dea6ddf6974ba4e5d26c3139ffb7580
 
 apple keyboard path to configure keys: /sys/bus/hid/drivers/apple/module/parameters
 
