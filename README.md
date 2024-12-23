@@ -27,9 +27,13 @@ hyprlock: pacman -S hyprlock (install it from distro's repository)
 
 Catppuccin mauve cursor: https://www.gnome-look.org/p/2135236
 
+Catppuccin Mauve GTK theme: https://www.gnome-look.org/p/1996672
+
 swww: pacman -S swww (install it from distro's repository)
 
+
 ##########################################################################
+
 
 screen share in hyprland: https://gist.github.com/brunoanc/2dea6ddf6974ba4e5d26c3139ffb7580
 
