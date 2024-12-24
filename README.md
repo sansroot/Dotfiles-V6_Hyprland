@@ -40,6 +40,7 @@ screen share in hyprland: https://gist.github.com/brunoanc/2dea6ddf6974ba4e5d26c
 apple keyboard path to configure keys: /sys/bus/hid/drivers/apple/module/parameters
 
 input remapper (lock key to delete key on magic keyboard): yay -S input-remapper-git
+sudo systemctl enable input-remapper
 
 ![image](https://github.com/user-attachments/assets/71cc7187-a670-4069-8045-34c8419c2b13)
 ![image](https://github.com/user-attachments/assets/cfe697e9-05a3-4bc7-8f3c-e337c9dc68ce)
