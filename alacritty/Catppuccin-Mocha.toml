@@ -30,7 +30,7 @@ text = "#1E1E2E"
 background = "#F5E0DC"
 
 [colors.normal]
-black = "#cba6f7"
+black = "#eeeeee"
 red = "#cba6f7"
 green = "#cba6f7"
 yellow = "#cba6f7"
