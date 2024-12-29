@@ -19,8 +19,6 @@ hyprpanel: yay -S ags-hyprpanel-git (install it from AUR/github repo)
 
 hyprpaper: pacman -S hyprpaper (install it from distro's repository)
 
-alacritty: pacman -S alacritty (install it from distro's repository)
-
 hyprshot: yay -S hyprshot (install it from AUR/github repo)
 
 hyprlock: pacman -S hyprlock (install it from distro's repository)
