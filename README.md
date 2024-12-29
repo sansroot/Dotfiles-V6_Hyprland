@@ -31,6 +31,8 @@ Catppuccin Mauve GTK theme: https://www.gnome-look.org/p/1996672
 
 swww: pacman -S swww (install it from distro's repository)
 
+kitty: pacman -S kitty (install it from distro's repository)
+
 
 ##########################################################################
 
